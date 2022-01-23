@@ -11508,4 +11508,17 @@ textarea.form-control-lg {
   }
 }
 
+.footer-social a {
+  color: #fff;
+}
+.footer-social a i {
+  font-size: 1rem;
+  margin-left: 1rem;
+}
+@media (min-width: 576px) {
+  .footer-social a i {
+    font-size: 1.6rem;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
